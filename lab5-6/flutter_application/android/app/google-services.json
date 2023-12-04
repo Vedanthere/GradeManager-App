@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768173370272",
+    "project_id": "fir-example-dcffa",
+    "storage_bucket": "fir-example-dcffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768173370272:android:f84ca42f1b17b168c512c5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdPbWq5onYoMqvUD102emnYDEltSXRwKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
