@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/61LKI4JB)
 
-Lab Extending: 
+Lab 5-6 Extending: 
 1. Added the ability to delete grades using the swiping gesture, then remove the delete icon from the appBar.
 2. Added the ability to edit grades using the long press gesture, with a popup menu, then remove the edit icon from the appBar.
 3. Added a single icon to the appBar that allows users to sort the grades in one of four ways (increasing/decreasing sid/grade).
